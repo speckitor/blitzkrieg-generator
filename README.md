@@ -14,4 +14,4 @@ sudo cp blzk /usr/local/bin
 
 # Usage
 
-You can use write startposes (except 0) to file and use blzk with `-f` or `--from-file` options or just run the command and write startposes into terminal. Every startpos has to be on new line and in terminal you must end with 0.
+You can use write startposes (except 0) to file and use blzk with `-f` or `--from-file` options or just run the command and write startposes into terminal. Every startpos has to be on new line in ascending order and in terminal you must end with 0.
